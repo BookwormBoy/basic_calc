@@ -1,4 +1,4 @@
-import calc
+from src.calc import add, subtract, mul, div
 import pytest
 
 def test_add():
